@@ -6,7 +6,7 @@ font-size: 18px ;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
- color: #4d5ae5;
+color: (#4d5ae5);
 
 }
 .logo-part-header{
@@ -30,10 +30,10 @@ color:  #404bbf  ;
     
 }
 .menu-link link:focus{
-color:  #404bbf ;
+color: (#404bbf );
 }
 .header-adress{
-    font-style: normal;
+font-style: normal;
 }
 .header-contacts{
 font-family: Roboto;
@@ -124,7 +124,6 @@ font-size: 20px;
 font-weight: 500;
 line-height: 24px;
 letter-spacing: 0.4px;
-color (#2E2F42);
 }
 .card-content-descr{
 font-family: Roboto;
@@ -140,13 +139,13 @@ background-color: #2e2f42;
 
 }
 .footer-log{
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: (#4d5ae5);
+font-family: Raleway, sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: (#4d5ae5);
 }
 .span-descr{
 color: (#f4f4fd);
