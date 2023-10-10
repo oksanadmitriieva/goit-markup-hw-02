@@ -26,13 +26,14 @@ letter-spacing: 0.32px;
 color: #434455;
 }
 .menu-link-link{
-    color: #2e2f42 ;
+    font-weight: 500; 
+    
 }
 .menu-link-link:hover{
 color:  #404bbf  ;
     
 }
-.menu-link link:focus{
+.menu-link-link:focus{
 color: #404bbf ;
 }
 .header-adress{
