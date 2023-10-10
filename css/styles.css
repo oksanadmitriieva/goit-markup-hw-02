@@ -48,3 +48,95 @@ font-weight: 700;
 line-height: 60px; 
 letter-spacing: 1.12px;
 }
+.second-section-name{
+width: 264px;
+color: (#2E2F42);
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px; 
+letter-spacing: 0.4px;
+}
+.second-section-name-descr{
+width: 264px;
+color: (#434455);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px; 
+letter-spacing: 0.32px;
+}
+.third-section{
+
+}
+.third-section-name{
+color:(#2E2F42);
+text-align: center;
+font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 40px; 
+letter-spacing: 0.72px;
+text-transform: capitalize;
+}
+.first-section-names{
+color:( #2E2F42);
+text-align: center;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.4px;
+}
+.section-three-position{
+color:(#434455);
+text-align: center;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.32px;
+}
+.fourth-section{
+
+}
+.fourth-section-name{
+color:(#2E2F42);
+text-align: center;
+font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.72px;
+text-transform: capitalize;
+}
+.card-content{
+ color (#2E2F42);
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.4px;
+}
+.card-content-descr{
+ color: ( #434455);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.32px;
+}
+.page-footer{
+
+}
+.footer-log{
+
+}
+.footer-paragraph{
+color:( #F4F4FD);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.32px;
+}
