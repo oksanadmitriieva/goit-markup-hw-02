@@ -70,7 +70,7 @@ color: #ffffff ;
 }
 .button-descr{
 background-color: #4D5AE5 ;
-font-family: "Roboto", sans-serif;
+font-family: Roboto, sans-serif;
 font-weight: 500 ;
 font-size: 16px ;
 line-height: 1.5;
@@ -100,7 +100,13 @@ letter-spacing: 0.32px;
 }
 .third-section{
 background-color: #F4F4FD ;
-color: #2e2f42;
+color: #2e2f42; 
+}
+.team-list{
+
+}
+.team-list-item{
+
 }
 .third-section-names{
 font-size: 36px;
@@ -108,15 +114,6 @@ line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em ;
 color:(#2E2F42);
-}
-.first-section-names{
-text-align: center;
-font-family: Roboto;
-font-size: 20px;
-font-weight: 500;
-line-height: 24px;
-letter-spacing: 0.4px;
-color:( #2E2F42);
 }
 .section-three-position{
 text-align: center;
@@ -140,6 +137,13 @@ letter-spacing: 0.72px;
 text-transform: capitalize;
 color:(#2E2F42);
 }
+.portfolio-list{
+
+}
+.portfolio-list-item{
+
+}
+
 .card-content{
 font-family: Roboto;
 font-size: 20px;
