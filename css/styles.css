@@ -91,6 +91,9 @@ letter-spacing: 0.32px;
 background-color:#F4F4FD ;
 color: #2e2f42; 
 }
+.team-list-item{
+    background-color: #FFFFFF;
+}
 .third-section-name{
     font-size: 36px ;
     line-height: 1.11 ;
@@ -129,6 +132,7 @@ color: #2e2f42 ;
  line-height: 1.2;
 font-weight: 500;
 line-height: 1.2;
+letter-spacing: 0.02em ;
 color: #2e2f42;
 }
 .card-content-descr{
