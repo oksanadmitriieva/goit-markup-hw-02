@@ -64,8 +64,7 @@ font-weight: 500 ;
 font-size: 16px ;
 line-height: 1.5;
 letter-spacing: 0.04em;
-color: #ffffff ;
-cursor: pointer ;
+color: #ffffff;
 }
 .button-descr:hover{
 background-color: #404BBF ; 
