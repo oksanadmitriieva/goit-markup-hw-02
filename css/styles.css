@@ -6,11 +6,11 @@ font-size: 18px ;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: (#4d5ae5);
+color: #4d5ae5;
 
 }
 .logo-part-header{
-color:(#2e2f42) ;
+color:#2e2f42 ;
 }
 .body-descr{
 font-family:Roboto, sans-serif;
@@ -23,14 +23,14 @@ font-size: 16px;
 font-weight: 500;
 line-height: 24px; 
 letter-spacing: 0.32px;
-color: (#434455);
+color: #434455;
 }
 .menu-link-link:hover{
 color:  #404bbf  ;
     
 }
 .menu-link link:focus{
-color: (#404bbf );
+color: #404bbf ;
 }
 .header-adress{
 font-style: normal;
@@ -41,7 +41,7 @@ font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.32px;
-color: (#434455);
+color: #434455;
 }
 .first-section{
 background-color: #2e2f42;
@@ -88,7 +88,7 @@ line-height: 24px;
 letter-spacing: 0.32px;
 }
 .third-section{
-background-color: (#F4F4FD) ;
+background-color:#F4F4FD ;
 color: #2e2f42; 
 }
 .third-section-names{
@@ -96,7 +96,7 @@ font-size: 36px;
 line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em ;
-color: (#2E2F42);
+color: #2E2F42;
 }
 .section-three-position{
 text-align: center;
@@ -105,7 +105,7 @@ font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.32px;
-color: (#434455);
+color: #434455;
 }
 .fourth-section-name{
 text-align: center;
@@ -115,7 +115,7 @@ font-weight: 700;
 line-height: 40px;
 letter-spacing: 0.72px;
 text-transform: capitalize;
-color: (#2E2F42);
+color: #2E2F42;
 }
 
 .card-content{
@@ -131,7 +131,7 @@ font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.32px;
-color: ( #434455);
+color:  #434455;
 }
 
 .page-footer{
@@ -145,10 +145,10 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: (#4d5ae5);
+color: #4d5ae5;
 }
 .span-descr{
-color: (#f4f4fd);
+color:#f4f4fd;
 }
 
 .footer-paragraph{
@@ -157,5 +157,5 @@ font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.32px;
-color: ( #F4F4FD);
+color: #F4F4FD;
 }
