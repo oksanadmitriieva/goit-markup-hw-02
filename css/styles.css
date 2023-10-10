@@ -1,29 +1,21 @@
-.main-page {
 
-}
-.main-page-nav{
-
-}
 .link-logo{
-    font-family: Raleway, sans-serif;
-    font-weight: 700 ;
-    font-size: 18px ;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
+font-family: Raleway, sans-serif;
+font-weight: 700 ;
+font-size: 18px ;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+ color: #4d5ae5;
 
 }
 .logo-part-header{
-color:#2e2f42 ;
-}
-.menu-list{
-
+color:(#2e2f42) ;
 }
 .body-descr{
-   font-family:Roboto, sans-serif;
-   color: #434455;
-   background-color: #FFFFFF;
+font-family:Roboto, sans-serif;
+color: #434455;
+background-color: #FFFFFF;
 }
 .menu-link{
 font-family: Roboto;
@@ -34,17 +26,14 @@ letter-spacing: 0.32px;
 color: (#434455);
 }
 .menu-link-link:hover{
-    color:  #404bbf  ;
+color:  #404bbf  ;
     
 }
 .menu-link link:focus{
- color:  #404bbf 
+color:  #404bbf ;
 }
 .header-adress{
     font-style: normal;
-}
-.list{
-
 }
 .header-contacts{
 font-family: Roboto;
@@ -55,7 +44,7 @@ letter-spacing: 0.32px;
 color: (#434455);
 }
 .first-section{
-    background-color: #2e2f42;
+background-color: #2e2f42;
 }
 .first-section-name{
 width: 496px;
@@ -99,14 +88,8 @@ line-height: 24px;
 letter-spacing: 0.32px;
 }
 .third-section{
-background-color: #F4F4FD ;
+background-color: (#F4F4FD) ;
 color: #2e2f42; 
-}
-.team-list{
-
-}
-.team-list-item{
-
 }
 .third-section-names{
 font-size: 36px;
@@ -124,9 +107,6 @@ line-height: 24px;
 letter-spacing: 0.32px;
 color: (#434455);
 }
-.fourth-section{
-
-}
 .fourth-section-name{
 text-align: center;
 font-family: Roboto;
@@ -136,12 +116,6 @@ line-height: 40px;
 letter-spacing: 0.72px;
 text-transform: capitalize;
 color: (#2E2F42);
-}
-.portfolio-list{
-
-}
-.portfolio-list-item{
-
 }
 
 .card-content{
