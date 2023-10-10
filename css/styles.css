@@ -108,22 +108,20 @@ letter-spacing: 0.32px;
 color: #434455;
 }
 .fourth-section-name{
-text-align: center;
-font-family: Roboto;
 font-size: 36px;
-font-weight: 700;
-line-height: 40px;
-letter-spacing: 0.72px;
+line-height: 1.11 ;
+text-align: center;
+text-align: center;
 text-transform: capitalize;
-color: #2E2F42;
+color: #2e2f42 ;
 }
 
 .card-content{
-font-family: Roboto;
+font-weight: 500 
 font-size: 20px;
-font-weight: 500;
-line-height: 24px;
-letter-spacing: 0.4px;
+line-height: 1.2;
+letter-spacing: 0.02em ;
+color: #2e2f42;
 }
 .card-content-descr{
 font-family: Roboto;
