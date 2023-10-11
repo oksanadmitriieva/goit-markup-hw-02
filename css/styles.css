@@ -57,6 +57,11 @@ line-height: 24px;
 letter-spacing: 0.32px;
 color: #434455;
 }
+.header-contacts:hover,
+ .header-contacts:focus{
+   color: #404bbf;
+ }
+ 
 .first-section{
 background-color: #2e2f42;
 }
